@@ -1,1 +1,2 @@
-/Users/damienflury/.vimrc
+filetype plugin indent on
+syntax on
