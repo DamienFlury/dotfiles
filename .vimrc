@@ -4,3 +4,4 @@ syntax on
 execute pathogen#infect()
 
 nmap <F6> :NERDTreeToggle<CR>
+:set relativenumber
