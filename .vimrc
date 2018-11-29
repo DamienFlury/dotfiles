@@ -6,3 +6,4 @@ execute pathogen#infect()
 nmap <F6> :NERDTreeToggle<CR>
 :set relativenumber
 imap jj <Esc>
+let g:livepreview_previewer = 'open -a Preview'
