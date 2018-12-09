@@ -1,0 +1,22 @@
+{
+
+    "sync.gist": "667cafcc224d3356a2f350a822440e05",
+    "workbench.colorTheme": "Ariake Dark",
+    "git.autofetch": true,
+    "vim.disableExtension": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "workbench.iconTheme": "material-icon-theme",
+    "cSpell.language": "en,de",
+    "csharp.format.enable": false,
+    "prettier.eslintIntegration": true,
+    "prettier.tslintIntegration": true,
+    "prettier.singleQuote": true,
+    "git.enableSmartCommit": true,
+    "editor.lineNumbers": "relative",
+    "cSpell.userWords": [
+        "Datepicker",
+        "Injectable",
+        "Paginator"
+    ],
+    "window.titleBarStyle": "custom"
+}

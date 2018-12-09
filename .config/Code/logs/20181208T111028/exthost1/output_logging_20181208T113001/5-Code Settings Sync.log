@@ -1,0 +1,62 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.2
+--------------------
+GitHub Token: 65c4d7181be39157b4e8da4b03890a09fc0d39ca
+GitHub Gist: 667cafcc224d3356a2f350a822440e05
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  settings.json > settings.json
+  vsicons.settings.json > vsicons.settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  angular-essentials v0.4.0
+  Angular2 v7.0.1
+  angular2-inline v0.0.17
+  ariake-dark v0.1.1
+  auto-close-tag v0.5.6
+  ayu v0.17.0
+  bracket-pair-colorizer v1.0.61
+  carbon-now-sh v1.2.0
+  code-settings-sync v3.2.2
+  code-spell-checker v1.6.10
+  code-spell-checker-german v0.1.2
+  cpptools v0.20.1
+  csharp v1.17.1
+  csharpextensions v1.3.0
+  csharpfixformat v0.0.76
+  dark-plus-syntax v0.0.147
+  debugger-for-chrome v4.11.1
+  EditorConfig v0.12.5
+  gitlens v9.0.3
+  indent-rainbow v7.2.4
+  Ionide-fsharp v3.30.0
+  latex-workshop v5.17.3
+  material-icon-theme v3.6.1
+  Material-theme v2.17.7
+  ng-template v0.1.11
+  path-intellisense v1.4.2
+  prettier-vscode v1.7.2
+  python v2018.11.0
+  quicktype v12.0.46
+  tslint v1.0.40
+  vim v0.16.13
+  vscode-eslint v1.7.0
+  vscode-html-css v0.2.0
+  vscode-icons v7.28.0
+  vscode-npm-script v0.3.5
+  vscode-spotify v3.1.0
+  vscodeintellicode v1.1.0
+  winteriscoming v0.8.8
+--------------------
+Done.

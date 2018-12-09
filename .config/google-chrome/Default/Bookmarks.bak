@@ -1,0 +1,177 @@
+{
+   "checksum": "7ceb6719c619b32b7733d32dc0ebee0a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13164552334389007",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13186944133439552",
+               "last_visited_desktop": "13188863742974519"
+            },
+            "name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+            "sync_transaction_version": "36",
+            "type": "url",
+            "url": "https://stackoverflow.com/"
+         }, {
+            "date_added": "13152401935829580",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13188436054211382",
+               "last_visited_desktop": "13188588203965006"
+            },
+            "name": "Wolfram|Alpha",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "http://www.wolframalpha.com/"
+         }, {
+            "date_added": "13165324699200423",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13188856960412387"
+            },
+            "name": "Google Kalender - Woche vom 12. März 2018",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/r/week?pli=1"
+         }, {
+            "date_added": "13175847087204548",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13188436054086931",
+               "last_visited_desktop": "13188856966102733"
+            },
+            "name": "Reddit",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13152401935829615",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13188864174292281"
+            },
+            "name": "YouTube",
+            "sync_transaction_version": "44",
+            "type": "url",
+            "url": "http://www.youtube.com/"
+         }, {
+            "date_added": "13170339277864336",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13187947607700609"
+            },
+            "name": "Google News",
+            "sync_transaction_version": "16",
+            "type": "url",
+            "url": "https://news.google.com/news/?hl=de-CH&gl=CH&ned=de_ch"
+         }, {
+            "date_added": "13171613947732294",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13188864170840592"
+            },
+            "name": "Inbox – damien.flury@gmail.com",
+            "sync_transaction_version": "43",
+            "type": "url",
+            "url": "https://inbox.google.com/?cid=imp&pli=1"
+         }, {
+            "date_added": "13182173571360351",
+            "id": "17",
+            "meta_info": {
+               "last_visited": "13184359707272419",
+               "last_visited_desktop": "13188864072028513"
+            },
+            "name": "GitHub",
+            "sync_transaction_version": "39",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13152401935829680",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13187713036375162"
+            },
+            "name": "Messenger",
+            "sync_transaction_version": "19",
+            "type": "url",
+            "url": "https://www.messenger.com/t/shiija.nii"
+         } ],
+         "date_added": "13188840986551499",
+         "date_modified": "13188859273518074",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13182510324613688",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13182581050858969",
+               "last_visited_desktop": "13182510324616181"
+            },
+            "name": "How Microsoft rewrote its C# compiler in C# and made it open source",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/microsoft-open-source-stories/how-microsoft-rewrote-its-c-compiler-in-c-and-made-it-open-source-4ebed5646f98"
+         }, {
+            "date_added": "13183106986076874",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13183106986077539"
+            },
+            "name": "Visual Studio Code Language Extension Guidelines",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://code.visualstudio.com/docs/extensionAPI/language-support"
+         }, {
+            "date_added": "13184773559244808",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13184773559245045"
+            },
+            "name": "python - Random is barely random at all? - Stack Overflow",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/2145510/random-is-barely-random-at-all"
+         } ],
+         "date_added": "13188840986551506",
+         "date_modified": "13184773559244808",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "44",
+      "synced": {
+         "children": [ {
+            "date_added": "13152401908691774",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13152401908692059"
+            },
+            "name": "Messenger",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://de-de.messenger.com/"
+         }, {
+            "date_added": "13187653790670234",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13188097986281862",
+               "last_visited_desktop": "13188297212450813"
+            },
+            "name": "F# spoiled me, or why I don’t enjoy C# anymore – Roman Liman – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/@liman.rom/f-spoiled-me-or-why-i-dont-enjoy-c-anymore-39e025035a98"
+         } ],
+         "date_added": "13188840986551507",
+         "date_modified": "13187653790670234",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

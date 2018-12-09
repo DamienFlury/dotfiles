@@ -1,0 +1,63 @@
+[2018-12-08 11:10:32.360] [sharedprocess] [info] main {"machineId":"e3d566e39907181b6d95c02fbbf2bb8332905331df2999a88dddb11443a685b3"}
+[2018-12-08 11:10:32.410] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:10:32.425] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:10:32.427] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:10:32.474] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:10:32.512] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:10:32.516] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:10:32.518] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:10:45.907] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:10:54.869] [sharedprocess] [info] main {"machineId":"e3d566e39907181b6d95c02fbbf2bb8332905331df2999a88dddb11443a685b3"}
+[2018-12-08 11:10:54.911] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:10:54.933] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:10:54.938] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:10:54.944] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:10:54.970] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:10:54.973] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:11:01.948] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:11:01.994] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:11:02.026] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:11:07.885] [sharedprocess] [info] Installing extension: code-settings-sync
+[2018-12-08 11:11:07.890] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-08 11:11:09.085] [sharedprocess] [info] Downloaded extension: code-settings-sync /tmp/9bc5399c-d26c-42ad-9b58-5e278d0daa5c
+[2018-12-08 11:11:10.112] [sharedprocess] [info] Extracted extension to /home/damien/.vscode/extensions/.shan.code-settings-sync-3.2.2: shan.code-settings-sync-3.2.2
+[2018-12-08 11:11:10.112] [sharedprocess] [info] Renamed to /home/damien/.vscode/extensions/shan.code-settings-sync-3.2.2
+[2018-12-08 11:11:10.112] [sharedprocess] [info] Installation completed. shan.code-settings-sync-3.2.2
+[2018-12-08 11:11:10.130] [sharedprocess] [info] Extensions installed successfully: shan.code-settings-sync
+[2018-12-08 11:11:10.254] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-08 11:11:10.288] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:11:11.949] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-08 11:11:11.949] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-08 11:11:11.997] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-08 11:11:11.998] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-08 11:11:11.999] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-08 11:11:12.001] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:11:12.054] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:11:12.057] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:11:12.061] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:11:12.264] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-08 11:11:34.872] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-12-08 11:16:12.307] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:21:12.369] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:26:12.437] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:32.688] [sharedprocess] [info] main {"machineId":"e3d566e39907181b6d95c02fbbf2bb8332905331df2999a88dddb11443a685b3"}
+[2018-12-08 11:29:32.944] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:33.088] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:33.111] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:33.160] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:33.264] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:29:33.281] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:29:33.300] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:29:43.993] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:53.586] [sharedprocess] [info] main {"machineId":"e3d566e39907181b6d95c02fbbf2bb8332905331df2999a88dddb11443a685b3"}
+[2018-12-08 11:29:53.755] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:53.790] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:53.797] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:53.810] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:29:53.841] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:29:53.847] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:30:00.808] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:30:00.824] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:30:00.838] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-08 11:30:01.182] [sharedprocess] [info] Scanned user extensions: 38
+[2018-12-08 11:30:33.590] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,46 @@
+[2018-12-08 11:31:18.909] [exthost] [info] extension host started
+[2018-12-08 11:31:18.932] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:18.932] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-08 11:31:18.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:18.939] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-08 11:31:18.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:18.962] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-08 11:31:19.108] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.108] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-08 11:31:19.113] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.113] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-12-08 11:31:19.120] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.120] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2018-12-08 11:31:19.133] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.133] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/dbaeumer.vscode-eslint-1.7.0/client/out/extension
+[2018-12-08 11:31:19.176] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.176] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/eamodio.gitlens-9.0.3/dist/extension
+[2018-12-08 11:31:19.284] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.284] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/editorconfig.editorconfig-0.12.5/out/src/editorConfigMain
+[2018-12-08 11:31:19.305] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.305] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/esbenp.prettier-vscode-1.7.2/out/src/extension
+[2018-12-08 11:31:19.460] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.460] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2018-12-08 11:31:19.460] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.460] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/oderwat.indent-rainbow-7.2.4/out/extension
+[2018-12-08 11:31:19.461] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.461] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/pkief.material-icon-theme-3.6.1/out/src/extension
+[2018-12-08 11:31:19.487] [exthost] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.487] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/robertohuertasm.vscode-icons-7.28.0/out/src/
+[2018-12-08 11:31:19.544] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.544] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/shan.code-settings-sync-3.2.2/out/src/extension
+[2018-12-08 11:31:19.752] [exthost] [info] ExtensionService#_doActivateExtension shyykoserhiy.vscode-spotify {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.752] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/shyykoserhiy.vscode-spotify-3.1.0/out/src/extension
+[2018-12-08 11:31:19.902] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.902] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/streetsidesoftware.code-spell-checker-1.6.10/out/src/extension
+[2018-12-08 11:31:19.994] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:19.994] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/vscodevim.vim-0.16.13/out/extension
+[2018-12-08 11:31:20.213] [exthost] [info] eager extensions activated
+[2018-12-08 11:31:20.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-08 11:31:20.217] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2018-12-08 11:31:20.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-08 11:31:20.223] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-12-08 11:31:20.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-08 11:31:20.271] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-12-08 11:31:20.633] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-german {"startup":true,"activationEvent":"*"}
+[2018-12-08 11:31:20.633] [exthost] [info] ExtensionService#loadCommonJSModule /home/damien/.vscode/extensions/streetsidesoftware.code-spell-checker-german-0.1.2/out/src/extension
