@@ -196,3 +196,4 @@ bindsym XF86AudioPrev exec playerctl previous
 
 
 exec_always feh --bg-scale /home/damien/Pictures/wallpaper.jpg
+exec --no-startup-id compton
