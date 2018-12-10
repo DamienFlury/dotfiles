@@ -1,4 +1,0 @@
-/* IE 10 support for HTML5 hidden attr */
-[hidden] {
-    display: none !important;
-}
