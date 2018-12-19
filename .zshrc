@@ -6,6 +6,8 @@ export ZSH="/home/damien/.oh-my-zsh"
 
 alias trackpad-enable='xinput --enable "Synaptics TM3289-002"'
 alias trackpad-disable='xinput --disable "Synaptics TM3289-002"'
+
+source /etc/zsh_command_not_found
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
