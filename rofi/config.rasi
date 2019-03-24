@@ -3,7 +3,7 @@ configuration {
 	width: 100;
 	lines: 3;
 /*	columns: 1;*/
-/*	font: "mono 12";*/
+	font: "Helvetica 18";
 	bw: 0;
 /*	location: 0;*/
 	padding: 800;
@@ -51,10 +51,10 @@ configuration {
 /*	click-to-exit: true;*/
 /*	show-match: true;*/
 /*	theme: ;*/
-	color-window: "#3d3d3d";
-	color-urgent: "#ffffff";
-	color-active: "#ffffff";
-	color-normal: "#ffffff"; 
+	color-window: "#595959, #ffffff, #ff0000, #ffffff, #000000";
+	color-urgent: "#ff0000, #ffffff, #ff0000, #ffffff, #000000";
+	color-active: "#ff0000, #ffffff, #ff0000, #ffffff, #000000";
+	color-normal: "#ff0000, #ffffff, #ff0000, #ffffff, #000000"; 
 /*	max-history-size: 25;*/
 /*	combi-hide-mode-prefix: false;*/
 /*	pid: "/run/user/1000/rofi.pid";*/
