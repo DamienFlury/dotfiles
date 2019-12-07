@@ -1,0 +1,57 @@
+URxvt.font: xft:monospace:size=10
+URxvt.scrollBar: false
+URxvt.internalBorder: 10
+
+! special
+*.foreground:   #c5c8c6
+*.background:   #1d1f21
+*.cursorColor:  #c5c8c6
+
+! black
+*.color0:       #282a2e
+*.color8:       #373b41
+
+! red
+*.color1:       #a54242
+*.color9:       #cc6666
+
+! green
+*.color2:       #8c9440
+*.color10:      #b5bd68
+
+! yellow
+*.color3:       #de935f
+*.color11:      #f0c674
+
+! blue
+*.color4:       #5f819d
+*.color12:      #81a2be
+
+! magenta
+*.color5:       #85678f
+*.color13:      #b294bb
+
+! cyan
+*.color6:       #5e8d87
+*.color14:      #8abeb7
+
+! white
+*.color7:       #707880
+*.color15:      #c5c8c6
+
+urxvt*depth: 32
+urxvt*background: rgba:0000/0000/0200/c800
+
+rofi.color-window: argb:c82d303b, #7c8389, #1d1f21
+rofi.color-normal: argb:31d1f211, #c4cbd4, argb:96404552, #4084d6, #f9f9f9
+rofi.color-urgent: argb:2c1d1f21, #cc6666, argb:e54b5160, #a54242, #f9f9f9
+rofi.color-active: argb:2c1d1f21, #65acff, argb:e44b5160, #4491ed, #f9f9f9
+rofi.width: 100
+rofi.lines: 5
+rofi.columns: 2
+rofi.font: Noto Sans 14
+rofi.bw: 0
+rofi.padding: 400
+rofi.eh: 1
+!rofi.separator-style: solid
+rofi.hide-scrollbar: true
