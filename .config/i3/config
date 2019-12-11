@@ -106,6 +106,8 @@ set $workspace3 "3: Code"
 set $workspace4 "4: IDEA"
 set $workspace9 "9: Spotify"
 
+workspace $workspace9 output HDMI-0
+
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
 bindsym $mod+2 workspace $workspace2
@@ -133,6 +135,7 @@ bindsym $mod+Shift+0 move container to workspace 10
 assign [class="Google-chrome"] $workspace2
 assign [class="Code"] $workspace3
 assign [class="jetbrains-idea"] $workspace4
+assign [class="discord"] $workspace9
 for_window [class="Spotify"] move to workspace $workspace9
 
 # reload the configuration file
@@ -194,8 +197,8 @@ bindsym ctrl+$mod+l exec --no-startup-id sleep 1 && xset dpms force suspend
 
 exec --no-startup-id synclient HorizEdgeScroll=1 VertEdgeScroll=1 VertScrollDelta=-111
 
-exec_always feh --bg-scale /home/damienflury/Pictures/wallpaper.jpg
-exec_always --no-startup-id /home/damienflury/.config/polybar/launch.sh
+exec --no-startup-id nitrogen --restore
+exec --no-startup-id /home/damienflury/.config/polybar/launch.sh
 exec --no-startup-id compton --config ~/.config/compton/compton.conf -b
 exec --no-startup-id xss-lock -- ~/.config/i3/lock.sh
 
