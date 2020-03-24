@@ -198,7 +198,6 @@ bindsym XF86AudioPrev exec playerctl previous
 bindsym ctrl+$mod+l exec --no-startup-id sleep 1 && xset dpms force suspend
 
 
-exec "setxkbmap -layout ch"
 exec --no-startup-id synclient HorizEdgeScroll=1 VertEdgeScroll=1 VertScrollDelta=-111
 
 #exec_always feh --bg-scale /home/damienflury/Pictures/wallpaper.jpg
